@@ -1,0 +1,10 @@
+clipboard==0.0.4
+colorama==0.4.6
+et-xmlfile==1.1.0
+greenlet==3.0.1
+playwright==1.42.0
+pyee==11.0.1
+pyperclip==1.8.2
+typing_extensions==4.10.0
+undetected-playwright==0.2.0
+undetected-playwright-patch==1.40.0.post1700587210000
